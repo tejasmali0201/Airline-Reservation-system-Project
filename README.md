@@ -11,3 +11,7 @@ Algorithms: Seat allocation and fare calculation.
 Real-time booking and cancellations.
 Passenger and flight inquiries.
 Automated report generation.
+
+# login
+Username: admin
+Password: admin
